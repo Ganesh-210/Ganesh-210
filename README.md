@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ganesh
-- 👀 I’m interested in Creating Mobile Apps for Android & iPhone using .net MAUI and Flutter
+- 👋 Hi, I’m Ganesh having 8yr experience in Mobile Application Developement using iOS(iPhone and iPad),Xamarin forms and Xamarin Native
+- 👀 I’m Creating Mobile Apps for Android & iPhone using .net MAUI and Flutter
 - 🌱 I’m currently learning .net MAUI and Flutter
 
 <!---
